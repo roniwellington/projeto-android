@@ -187,8 +187,14 @@ aside > ul {
     columns: 2;
 }
 
+.teste {
+    background-color: var(--cor5);
+    padding: 10px;
+    color: white;
+}
+
 footer {
-    background-color: :var(--cor5);
+    background-color: var(--cor5);
     color: white;
     text-align: center;
     font-size: 0.8em;
