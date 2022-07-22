@@ -188,7 +188,7 @@ aside > ul {
 }
 
 .teste {
-    background-color: var(--cor5);
+    background: var(--cor5);
     padding: 10px;
     color: white;
 }
